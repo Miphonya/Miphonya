@@ -19,12 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Miphonya/Miphonya/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">PROFILE VISITED BY</p>
 
 ###
