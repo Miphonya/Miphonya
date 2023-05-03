@@ -32,3 +32,7 @@
 <p align="center">PEOPLE</p>
 
 ###
+
+###
+*PS: Yes... it is possible that I "accidentally" deleted all my activities from 2021 and 2022.*
+###
