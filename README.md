@@ -34,5 +34,5 @@
 ###
 
 ###
-*PS: Yes... it is possible that I "accidentally" deleted all my activities from 2021 and 2022.*
+*PS: Yes... it is possible that I "accidentally" deleted all my activities from 2021, 2022 and early 2023. 😅*
 ###
